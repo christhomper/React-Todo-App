@@ -30,8 +30,10 @@
     
 ## Technologies Used
 
-    React: A popular JavaScript library for building user interfaces.
+    React
+
+    Javascript
     
-    HTML/CSS: For structuring and styling the application.
+    HTML/CSS
     
-    Netlify: Hosting platform for deploying the application online.
+    Netlify
