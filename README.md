@@ -5,7 +5,9 @@
 ## Features
   
     Add Tasks: Quickly add tasks to your to-do list.
+    
     Edit Tasks: Easily modify task descriptions to keep your list up-to-date.
+    
     Remove Tasks: Remove completed or unnecessary tasks with a single click.
 
 ## Live Demo
