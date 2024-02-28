@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-    Experience the application live by visiting [Todoosies](https://todoosies.netlify.app/).
+    Experience the application live by visiting https://todoosies.netlify.app
 
 ## Installation
 
