@@ -1,4 +1,4 @@
-#React Todo List Application
+# React Todo List Application
 
     This straightforward application allows users to manage tasks efficiently. 
 
