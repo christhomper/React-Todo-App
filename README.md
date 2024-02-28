@@ -2,17 +2,17 @@
 
     This straightforward application allows users to manage tasks efficiently. 
 
-#Features
+Features
   
     Add Tasks: Quickly add tasks to your to-do list.
     Edit Tasks: Easily modify task descriptions to keep your list up-to-date.
     Remove Tasks: Remove completed or unnecessary tasks with a single click.
 
-##Live Demo
+Live Demo
 
     Experience the application live by visiting [Todoosies](https://todoosies.netlify.app/).
 
-#Installation
+Installation
 
     To run the application locally, follow these steps:
 
@@ -26,7 +26,7 @@
         
         Access the application at http://localhost:3000 in your browser.
     
-#Technologies Used
+Technologies Used
 
     React: A popular JavaScript library for building user interfaces.
     
